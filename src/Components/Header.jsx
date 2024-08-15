@@ -13,7 +13,7 @@ const Header = () => {
       <Navbar.Collapse className="menuBars">
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Link className="nav-link headerLInk" to="/">Home</Link>
+          <Link className="nav-link headerLInk" to="/">Mamta</Link>
           <Link className="nav-link headerLInk" to="/about">About</Link>
           <Link className="nav-link headerLInk" to="/service">Services</Link>
           <Link className="nav-link headerLInk" to="/news">News</Link>
